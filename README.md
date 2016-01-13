@@ -5,6 +5,13 @@ The awesome of rants in tech repo.
 
 This is the awesome collection of rants in tech. 
 
+## Table of Contents
+- [What?](#what)
+- [Synopsis](#synopsis)
+- [Motivation](#motivation)
+- [Contributors](#contributors)
+- [License](#license)
+
 ### What?
 
 Do you have a rant to share? Do you feel overwhelmed, frustrated, did you wrote 
