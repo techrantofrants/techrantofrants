@@ -16,7 +16,7 @@ you can:
 - create the a rant file with a description and link to your rant, issue, etc
 - create a rant issue (if there is no blog post, no rant file, etc)
 - link to a gist
-- whatever, but check that the links are working and follow [please read the code of conduct before participating.](./CODE_OF_CONDUCT.md)  
+- whatever, but check that the links are working and follow [please read the code of conduct before participating.](../CODE_OF_CONDUCT.md)  
 
 - create the rant file with your-rant-descriptive-name.md
 - link it in rants/all/all.md

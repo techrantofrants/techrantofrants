@@ -22,6 +22,7 @@ possibly offer help.
 
 ### How it works?
 Read or interact with the [rants](./rants/rants.md)
+
 [Learn how to](./rants/rants-how-to.md) contribute your rant(s).
 
 ## Then the digression
