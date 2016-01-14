@@ -1,22 +1,35 @@
+"Vulnerability is the best measure of courage" Dr. Brene Brown
+
 # techrantofrants
-The awesome of rants in tech repo.
+The awesome of rants in tech repository.
 
 ## TL;DR
 
 This is the awesome collection of rants in tech. 
 
 ## Table of Contents
+- [How it works](#how-it-works)
 - [What?](#what)
 - [Synopsis](#synopsis)
 - [Motivation](#motivation)
 - [Contributors](#contributors)
 - [License](#license)
 
+## First what really matters
+A little bit of courage is needed, but sharing we realize that we are 
+not alone, we can get in touch with people who can understand and 
+possibly offer help.
+
+### How it works?
+Read or interact with the [rants](./rants/rants.md)
+[Learn how to](./rants/rants-how-to.md) contribute your rant(s).
+
+## Then the digression
+
 ### What?
 
-Do you have a rant to share? Do you feel overwhelmed, frustrated, did you wrote 
-a rant post or do you think to write one, etc, etc, etc, (ok, you do not need 
-to let people know if you do not want, will remain among us)?
+Do you have a rant to share? Do you feel overwhelmed, frustrated, 
+did you wrote a rant post or do you think to write one, etc, etc, etc?
 
 > Every rant is matters!
 
@@ -61,7 +74,7 @@ relieve the discomfort of the part of those (and beyond) that generate these app
 Please read about [contributing](./CONTRIBUTING.md)
 Also, [please read the code of conduct before participating.](./CODE_OF_CONDUCT.md)
 
-Basilcally fork & clone this repo, branch your rant feature, ok, go to read the
+Basilcally fork & clone this repository, branch your rant feature, ok, go to read the
 [contributing](./CONTRIBUTING.md) file.
 
 ## License

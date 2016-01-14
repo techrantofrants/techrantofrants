@@ -22,7 +22,10 @@ works.
 
 This document will guide you through the contribution process.
 
-### Step 1: Fork
+### Step 0
+[Learn how to](./rants/rants-how-to.md) contribute your rant(s).
+
+### Step 1: Fork this repository
 
 Fork the project [on GitHub](https://github.com/techrantofrants/techrantofrants) 
 and check out your copy locally.
